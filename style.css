@@ -1,12 +1,12 @@
 h1{
-    color:crimson
+    color:#5d2f9a
 }
 *{
     border:solid
 }
 
 .header{
-    background-color:lightblue;
+    background-color:#83ac5d;
     display:flex;
     justify-content: space-between;
 }
@@ -24,4 +24,13 @@ h1{
 
 p,h2{
     text-align:center
+}
+
+body{
+    background-color: #808080;
+}
+
+.item{
+    box-shadow: 7px 10px 7px 3px
+    rgba(52, 2, 85, 0.849)
 }

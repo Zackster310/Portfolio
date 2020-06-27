@@ -6,3 +6,15 @@
     display:flex;
     justify-content: space-around;
 }
+
+body{
+    background-color: #c8c8c8;
+}
+
+.intro{
+    color: #5c05c0a2;
+}
+
+.images{
+    background-color: #acf;
+}
